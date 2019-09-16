@@ -16,12 +16,12 @@
 #### Word2vec training based on wiki_data
 
 #### chapter 5:
-##### 抄袭文本自动判定__以新华社新闻数据为例
+##### _——抄袭文本自动判定__以新华社新闻数据为例
 ##### ——5.1 Definition of y: plagiarized text & EDA
 ##### ——5.2 Data preprocessing
 ##### ——5.3 Text classification
 
 #### chapter 6: 
-#### First step of tensorflow & keras
+#### _——First step of tensorflow & keras
 ##### ——6.1 Learning tensorflow & keras with mini dataset
 ##### ——6.2 Building neural network framework from 0 to 1
