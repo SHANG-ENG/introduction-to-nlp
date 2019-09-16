@@ -11,3 +11,6 @@
 #### chapter 3 ——待更新
 ##### ——3.1 Dynamic Programming
 ##### ——3.2 Edit Distance 
+
+#### chapter 4 
+##### ——基于中文维基百科数据训练word2vec词向量
