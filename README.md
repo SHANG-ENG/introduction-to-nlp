@@ -23,5 +23,6 @@
 
 ### chapter 6: 
 #### First step of tensorflow & keras
-#####  ——6.1 Learning tensorflow & keras with mini dataset
-#####  ——6.2 Building neural network framework from 0 to 1
+#####  ——6.1 image classification with keras bases on fashion-mnist
+#####  ——6.2 image classification with tensorflow bases on notMNIST
+#####  ——6.3 Building neural network framework from 0 to 1
